@@ -1,16 +1,15 @@
-## Hi there 👋
+**Bem vintos ao meu perfil💙💙💙💙**
 
-<!--
-**Yasmin1908/Yasmin1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conheça alguns detalhes sobre minha pessoa💙🤙:
 
-Here are some ideas to get you started:
+*Me chamo Yasmin.😄
+*Tenho 15 anos.🎂
+*Sou estudante do 1°ano do ensino médio.👩‍🎓
+*moro no Brasil.🐵
+*Meus hobbis são: Pintura🖌️, Tocar teclado🎹, fazer minhas unhas (manicure)💅 e assistir filmes🎞️.
+* Minha comida preferida é lanche🍔 e pizza🍕.
+* Meus doces preferidos é chocolate🍫, sorvete🍨, cupcake🧁 torta🥧 entre outros outros.
+* *Quero me formar e fazer intercâmbio👩‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://media.tenor.com/WjRoJjRUSLgAAAAi/hair-flip-disgust.gif)
